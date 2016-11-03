@@ -1,0 +1,15 @@
+
+{
+  "couch": {
+    "protocol": "http",
+    "hostname": "127.0.0.1",
+    "port": 4000,
+    "pathname": "nba"
+  },
+  "mySQL": {
+    "host": "127.0.0.1",
+    "port": 3223,
+    "dbName": "nba"
+  },
+  "debug": true
+}
